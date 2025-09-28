@@ -13,14 +13,18 @@
 
 ---
 
-## 🎮 Watch My Code Snake in Action!
+## 🎮 Time for a Game Break!
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/lynexvijez/lynexvijez/main/images/snake-game.svg)
+[![Play Snake](https://img.shields.io/badge/Play-Snake_Game-green?style=for-the-badge&logo=snapcraft)](https://playsnake.org/)
+[![Play Tetris](https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge&logo=tetris)](https://tetris.com/play-tetris)
+[![Play Pacman](https://img.shields.io/badge/Play-Pacman-yellow?style=for-the-badge)](https://pacman.platzh1rsch.ch/)
+[![Play Chess](https://img.shields.io/badge/Play-Chess-brown?style=for-the-badge&logo=chess)](https://www.chess.com/play/computer)
+
+*Take a break and enjoy these games! 🎯*
 
 </div>
-
 ---
 
 ## 🚀 What I'm Up To
