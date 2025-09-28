@@ -13,11 +13,11 @@
 
 ---
 
-## 🎮 Play Tetris in My README!
+## 🎮 Play Snake Game in My README!
 
 <div align="center">
-
-[![Play Tetris](https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge&logo=tetris)](https://tetris.com/play-tetris)
+  
+![Snake Game](https://github.com/lynexvijez/lynexvijez/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
