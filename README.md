@@ -13,11 +13,11 @@
 
 ---
 
-## 🎮 Play Snake Game in My README!
+## 🎮 Watch My Code Snake in Action!
 
 <div align="center">
-  
-![Snake Game](https://github.com/lynexvijez/lynexvijez/blob/output/github-contribution-grid-snake.svg)
+
+![Snake Animation](https://raw.githubusercontent.com/lynexvijez/lynexvijez/main/images/snake-game.svg)
 
 </div>
 
