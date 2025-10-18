@@ -32,9 +32,7 @@
 *   🌱 **Learning:** Software Engineering with AI, Web3, Bots, and Automation  
 *   🤔 **Exploring:** Content Automation, JSON, Git/GitHub, and Cloud Tools  
 *   💬 **Ask me about:** Academic Writing, Virtual Assistance, AI Tools, Web Tech  
-*   🎯 **2025 Goals:** Build my tech brand, grow Lynex Writing, and become an international tech influencer 🌍  
-*   ⚡ **Fun fact:** I can debug code while teaching preschoolers - multitasking is my superpower! 🦸‍♂️
-
+*   🎯 **2025 Goals:** Build my tech brand, grow Lynex Writing, and become an international tech influencer 🌍 
 ---
 
 ## 🛠️ My Tech & Tools
